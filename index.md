@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome !!
 
-You can use the [editor on GitHub](https://github.com/mkejriwal/mkejriwal.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# I'm Mahima Kejriwal 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Myself](C:\Users\user\Desktop\MUN\1.jpg)
+
+I am freshman student at the LNM Institute of Information Technology, Jaipur pursuing B.Tech in Electronics and communication Engineering. 
 
 ### Markdown
 
