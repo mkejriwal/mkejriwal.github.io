@@ -2,9 +2,9 @@
 
 # I'm Mahima Kejriwal 
 
-![Myself](C:\Users\user\Desktop\MUN\1.jpg)
+![Image](C:\Users\user\Desktop\MUN\1.jpg)
 
-I am freshman student at the LNM Institute of Information Technology, Jaipur pursuing B.Tech in Electronics and communication Engineering. 
+I am freshman student at _The LNM Institute of Information Technology_ , Jaipur pursuing B.Tech in **Computer Science Engineering**. 
 
 ### Markdown
 
