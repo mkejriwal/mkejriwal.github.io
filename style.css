@@ -455,7 +455,7 @@ header .row {
 /* 4.Add Area
 /*--------------------------------*/
 .add-area {
-  background: url(img/background/bg5.jpg);
+  background: url(img/background/bg2.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top center;
@@ -550,17 +550,20 @@ header .row {
   background: #66D37E none repeat scroll 0 0;
   line-height: 8px;
 }
+.bar-1{
+  right: 22%
+}
 .bar-2 {
-  right: 7%;
+  right: 27%;
 }
 .bar-3 {
   right: 17%;
 }
 .bar-4 {
-  right: 27%;
+  right: 47%;
 }
 .bar-5 {
-  right: 12%;
+  right: 37%;
 }
 .skill-edu h4 {
   margin-bottom: 40px;
